@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mesaspaz_zona2/static/css/main.244d0467.css",
+    "main.js": "/mesaspaz_zona2/static/js/main.5bc19413.js",
+    "static/js/453.1aae73ba.chunk.js": "/mesaspaz_zona2/static/js/453.1aae73ba.chunk.js",
+    "index.html": "/mesaspaz_zona2/index.html",
+    "main.244d0467.css.map": "/mesaspaz_zona2/static/css/main.244d0467.css.map",
+    "main.5bc19413.js.map": "/mesaspaz_zona2/static/js/main.5bc19413.js.map",
+    "453.1aae73ba.chunk.js.map": "/mesaspaz_zona2/static/js/453.1aae73ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.244d0467.css",
+    "static/js/main.5bc19413.js"
+  ]
+}
